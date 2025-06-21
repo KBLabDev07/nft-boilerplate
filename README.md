@@ -1,4 +1,4 @@
-# NFT Boilerplate
+## NFT Boilerplate
 
 This repository includes basic configuration for a code review workflow.
 
